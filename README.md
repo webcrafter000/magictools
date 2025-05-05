@@ -45,3 +45,8 @@ A no-code platform that generates internal tools based on natural language descr
 
 ```bash
 npm install
+
+npm run dev
+
+```
+This will launch the project, and you can open it in your browser at http://localhost:3000
